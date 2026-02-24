@@ -1,3 +1,3 @@
 # Atelier_Python
 
-This repository contains Python projects and exercises for the Atelier.
+This repository contains Python projects and exercises for the Python Course.
